@@ -1,0 +1,106 @@
+{
+  "Track_01": {
+    "title": "Scene Zero: The Edge of Familiar",
+    "words": 10036,
+    "mp3_file": "Track_01_Scene_Zero__The_Edge_of_Familiar.mp3",
+    "mp3_mb": 61.3,
+    "seconds_elapsed": 1737.4,
+    "timestamp": "2026-11-02 19:55:42"
+  },
+  "Track_02": {
+    "title": "Scene 1: The Campsite",
+    "words": 9797,
+    "mp3_file": "Track_02_Scene_1__The_Campsite.mp3",
+    "mp3_mb": 59.31,
+    "seconds_elapsed": 1695.8,
+    "timestamp": "2026-11-02 20:24:05"
+  },
+  "Track_03": {
+    "title": "Scene 2: Breaking the Rules",
+    "words": 9852,
+    "mp3_file": "Track_03_Scene_2__Breaking_the_Rules.mp3",
+    "mp3_mb": 59.9,
+    "seconds_elapsed": 1752.1,
+    "timestamp": "2026-11-02 20:53:25"
+  },
+  "Track_04": {
+    "title": "Scene 3: The Rulebreaker's Fate",
+    "words": 9937,
+    "mp3_file": "Track_04_Scene_3__The_Rulebreaker's_Fate.mp3",
+    "mp3_mb": 59.83,
+    "seconds_elapsed": 1738.9,
+    "timestamp": "2026-11-02 21:22:32"
+  },
+  "Track_05": {
+    "title": "Scene 4: Not-Zoe",
+    "words": 9662,
+    "mp3_file": "Track_05_Scene_4__Not-Zoe.mp3",
+    "mp3_mb": 57.95,
+    "seconds_elapsed": 1720.4,
+    "timestamp": "2026-11-02 21:51:19"
+  },
+  "Track_06": {
+    "title": "Scene 5: The Bloody Return",
+    "words": 9554,
+    "mp3_file": "Track_06_Scene_5__The_Bloody_Return.mp3",
+    "mp3_mb": 57.93,
+    "seconds_elapsed": 1720.9,
+    "timestamp": "2026-11-02 22:20:08"
+  },
+  "Track_07": {
+    "title": "Scene 6: The Wrong Answer",
+    "words": 9025,
+    "mp3_file": "Track_07_Scene_6__The_Wrong_Answer.mp3",
+    "mp3_mb": 55.9,
+    "seconds_elapsed": 1684.4,
+    "timestamp": "2026-11-02 22:48:19"
+  },
+  "Track_08": {
+    "title": "Scene 7: Counting the Living",
+    "words": 9157,
+    "mp3_file": "Track_08_Scene_7__Counting_the_Living.mp3",
+    "mp3_mb": 56.78,
+    "seconds_elapsed": 1711.7,
+    "timestamp": "2026-11-02 23:16:58"
+  },
+  "Track_09": {
+    "title": "Scene 8: The Hunters in the Trees",
+    "words": 9161,
+    "mp3_file": "Track_09_Scene_8__The_Hunters_in_the_Trees.mp3",
+    "mp3_mb": 57.65,
+    "seconds_elapsed": 1856.0,
+    "timestamp": "2026-11-02 23:48:01"
+  },
+  "Track_10": {
+    "title": "Scene 9: A Flicker in the Dark",
+    "words": 9556,
+    "mp3_file": "Track_10_Scene_9__A_Flicker_in_the_Dark.mp3",
+    "mp3_mb": 58.74,
+    "seconds_elapsed": 1844.9,
+    "timestamp": "2026-11-03 00:18:54"
+  },
+  "Track_11": {
+    "title": "Scene 10: The Balance Keeper",
+    "words": 9820,
+    "mp3_file": "Track_11_Scene_10__The_Balance_Keeper.mp3",
+    "mp3_mb": 58.77,
+    "seconds_elapsed": 1769.5,
+    "timestamp": "2026-11-03 00:48:31"
+  },
+  "Track_12": {
+    "title": "Scene 11: The Last Goodbye",
+    "words": 10047,
+    "mp3_file": "Track_12_Scene_11__The_Last_Goodbye.mp3",
+    "mp3_mb": 58.04,
+    "seconds_elapsed": 1651.4,
+    "timestamp": "2026-11-03 01:16:09"
+  },
+  "Track_13": {
+    "title": "Scene 12: The Missing Nine",
+    "words": 9893,
+    "mp3_file": "Track_13_Scene_12__The_Missing_Nine.mp3",
+    "mp3_mb": 61.06,
+    "seconds_elapsed": 1824.7,
+    "timestamp": "2026-11-03 01:46:42"
+  }
+}
