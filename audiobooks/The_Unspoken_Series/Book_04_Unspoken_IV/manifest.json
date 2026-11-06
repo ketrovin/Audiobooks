@@ -1,0 +1,66 @@
+{
+  "Track_01": {
+    "title": "Chapter 1: The Perimeter at Edge-Nine",
+    "words": 12166,
+    "mp3_file": "Track_01_Chapter_1__The_Perimeter_at_Edge-Nine.mp3",
+    "mp3_mb": 76.9,
+    "seconds_elapsed": 2168.1,
+    "timestamp": "2026-11-03 06:07:54"
+  },
+  "Track_02": {
+    "title": "Chapter 2: The Architecture of The Pens",
+    "words": 9151,
+    "mp3_file": "Track_02_Chapter_2__The_Architecture_of_The_Pens.mp3",
+    "mp3_mb": 57.53,
+    "seconds_elapsed": 1640.8,
+    "timestamp": "2026-11-03 06:35:22"
+  },
+  "Track_03": {
+    "title": "Chapter 3: The First Sacrifices",
+    "words": 9592,
+    "mp3_file": "Track_03_Chapter_3__The_First_Sacrifices.mp3",
+    "mp3_mb": 61.15,
+    "seconds_elapsed": 1773.8,
+    "timestamp": "2026-11-03 07:05:04"
+  },
+  "Track_04": {
+    "title": "Chapter 4: The Third Test: Iris and the Sentinel",
+    "words": 8937,
+    "mp3_file": "Track_04_Chapter_4__The_Third_Test__Iris_and_the_Sentinel.mp3",
+    "mp3_mb": 55.86,
+    "seconds_elapsed": 1603.6,
+    "timestamp": "2026-11-03 07:31:54"
+  },
+  "Track_05": {
+    "title": "Chapter 5: Sanctuary in the Timber",
+    "words": 8162,
+    "mp3_file": "Track_05_Chapter_5__Sanctuary_in_the_Timber.mp3",
+    "mp3_mb": 48.01,
+    "seconds_elapsed": 1369.3,
+    "timestamp": "2026-11-03 07:54:50"
+  },
+  "Track_06": {
+    "title": "Chapter 6: The Hollow Archive",
+    "words": 8077,
+    "mp3_file": "Track_06_Chapter_6__The_Hollow_Archive.mp3",
+    "mp3_mb": 49.8,
+    "seconds_elapsed": 1444.2,
+    "timestamp": "2026-11-03 08:19:00"
+  },
+  "Track_07": {
+    "title": "Chapter 7: Roots in Concrete",
+    "words": 8494,
+    "mp3_file": "Track_07_Chapter_7__Roots_in_Concrete.mp3",
+    "mp3_mb": 53.68,
+    "seconds_elapsed": 1516.2,
+    "timestamp": "2026-11-03 08:44:23"
+  },
+  "Track_08": {
+    "title": "Chapter 8: The Price of Hubris",
+    "words": 8072,
+    "mp3_file": "Track_08_Chapter_8__The_Price_of_Hubris.mp3",
+    "mp3_mb": 51.73,
+    "seconds_elapsed": 1513.8,
+    "timestamp": "2026-11-03 09:09:44"
+  }
+}
