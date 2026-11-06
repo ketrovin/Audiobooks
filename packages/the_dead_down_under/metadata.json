@@ -1,0 +1,17 @@
+{
+  "id": "the_dead_down_under",
+  "title": "The Dead Down Under",
+  "subtitle": "The Red Continent Quarantine",
+  "author": "Gabriel Simon",
+  "genre": "Horror / Outpost Survival / Outback Dread",
+  "word_count": 108322,
+  "estimated_pages": 433,
+  "logline": "Thirty interconnected stories of survival across the scorching Australian outback, remote cattle stations, isolated electrical substations, and coastal pearling ports under total quarantine.",
+  "covers": [
+    "the dead down under.png"
+  ],
+  "manuscript_files": [
+    "manuscript.md",
+    "manuscript.txt"
+  ]
+}

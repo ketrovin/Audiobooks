@@ -1,0 +1,17 @@
+{
+  "id": "the_ravens_wake_book_1",
+  "title": "The Raven's Wake: Book One",
+  "subtitle": "The Cosmic Filament",
+  "author": "Gabriel Simon",
+  "genre": "Science Fiction / Space Opera / Working-Class Survival",
+  "word_count": 92407,
+  "estimated_pages": 370,
+  "logline": "On the silica-choked mining world of Tartarus-Four, heavy ore loader operator Donnie Paul punches the clock for corporate vouchers until an unearthly terror strikes his shift, forcing a working-class rebellion across the stars.",
+  "covers": [
+    "raven_forest.jpeg"
+  ],
+  "manuscript_files": [
+    "manuscript.md",
+    "manuscript.txt"
+  ]
+}
