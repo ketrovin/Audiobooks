@@ -1,0 +1,74 @@
+{
+  "Track_01": {
+    "title": "Chapter 1: Beyond the Crooked Gate",
+    "words": 9686,
+    "mp3_file": "Track_01_Chapter_1__Beyond_the_Crooked_Gate.mp3",
+    "mp3_mb": 59.8,
+    "seconds_elapsed": 1699.8,
+    "timestamp": "2026-11-03 13:03:17"
+  },
+  "Track_02": {
+    "title": "Chapter 2: The Loop of Coordinates",
+    "words": 9977,
+    "mp3_file": "Track_02_Chapter_2__The_Loop_of_Coordinates.mp3",
+    "mp3_mb": 63.0,
+    "seconds_elapsed": 1837.9,
+    "timestamp": "2026-11-03 13:34:03"
+  },
+  "Track_03": {
+    "title": "Chapter 3: The Echo of Campfires",
+    "words": 9762,
+    "mp3_file": "Track_03_Chapter_3__The_Echo_of_Campfires.mp3",
+    "mp3_mb": 60.01,
+    "seconds_elapsed": 1690.2,
+    "timestamp": "2026-11-03 14:02:20"
+  },
+  "Track_04": {
+    "title": "Chapter 4: The Game Begins",
+    "words": 9564,
+    "mp3_file": "Track_04_Chapter_4__The_Game_Begins.mp3",
+    "mp3_mb": 59.54,
+    "seconds_elapsed": 1715.0,
+    "timestamp": "2026-11-03 14:31:03"
+  },
+  "Track_05": {
+    "title": "Chapter 5: The First Reckoning \u2014 The Chest Camera",
+    "words": 9709,
+    "mp3_file": "Track_05_Chapter_5__The_First_Reckoning_\u2014_The_Chest_Camera.mp3",
+    "mp3_mb": 60.96,
+    "seconds_elapsed": 1755.1,
+    "timestamp": "2026-11-03 15:00:26"
+  },
+  "Track_06": {
+    "title": "Chapter 6: The Labyrinth of Memory",
+    "words": 9328,
+    "mp3_file": "Track_06_Chapter_6__The_Labyrinth_of_Memory.mp3",
+    "mp3_mb": 59.29,
+    "seconds_elapsed": 1784.5,
+    "timestamp": "2026-11-03 15:30:18"
+  },
+  "Track_07": {
+    "title": "Chapter 7: The Water at Midnight",
+    "words": 9985,
+    "mp3_file": "Track_07_Chapter_7__The_Water_at_Midnight.mp3",
+    "mp3_mb": 63.34,
+    "seconds_elapsed": 1882.1,
+    "timestamp": "2026-11-03 16:01:48"
+  },
+  "Track_08": {
+    "title": "Chapter 8: Marcus Greene's Intervention",
+    "words": 9696,
+    "mp3_file": "Track_08_Chapter_8__Marcus_Greene's_Intervention.mp3",
+    "mp3_mb": 61.3,
+    "seconds_elapsed": 1800.1,
+    "timestamp": "2026-11-03 16:31:56"
+  },
+  "Track_09": {
+    "title": "Chapter 9: The Surviving Seed & The Eternal Covenant",
+    "words": 9846,
+    "mp3_file": "Track_09_Chapter_9__The_Surviving_Seed_&_The_Eternal_Covenant.mp3",
+    "mp3_mb": 62.45,
+    "seconds_elapsed": 1854.9,
+    "timestamp": "2026-11-03 17:02:59"
+  }
+}
