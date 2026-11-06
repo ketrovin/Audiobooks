@@ -1,0 +1,74 @@
+{
+  "Track_01": {
+    "title": "Chapter 1: The Gathering at the Frontier",
+    "words": 4432,
+    "mp3_file": "Track_01_Chapter_1__The_Gathering_at_the_Frontier.mp3",
+    "mp3_mb": 26.62,
+    "seconds_elapsed": 724.9,
+    "timestamp": "2026-11-03 11:33:08"
+  },
+  "Track_02": {
+    "title": "Chapter 2: The Two on the Path",
+    "words": 2956,
+    "mp3_file": "Track_02_Chapter_2__The_Two_on_the_Path.mp3",
+    "mp3_mb": 18.17,
+    "seconds_elapsed": 529.5,
+    "timestamp": "2026-11-03 11:42:00"
+  },
+  "Track_03": {
+    "title": "Chapter 3: The Forty-Year Tape",
+    "words": 2866,
+    "mp3_file": "Track_03_Chapter_3__The_Forty-Year_Tape.mp3",
+    "mp3_mb": 17.87,
+    "seconds_elapsed": 510.7,
+    "timestamp": "2026-11-03 11:50:33"
+  },
+  "Track_04": {
+    "title": "Chapter 4: The Sound of Broken Wood",
+    "words": 3192,
+    "mp3_file": "Track_04_Chapter_4__The_Sound_of_Broken_Wood.mp3",
+    "mp3_mb": 19.59,
+    "seconds_elapsed": 569.1,
+    "timestamp": "2026-11-03 12:00:05"
+  },
+  "Track_05": {
+    "title": "Chapter 5: The Stolen Relic",
+    "words": 2012,
+    "mp3_file": "Track_05_Chapter_5__The_Stolen_Relic.mp3",
+    "mp3_mb": 12.56,
+    "seconds_elapsed": 375.1,
+    "timestamp": "2026-11-03 12:06:22"
+  },
+  "Track_06": {
+    "title": "Chapter 6: The Heresy of Dominion",
+    "words": 2411,
+    "mp3_file": "Track_06_Chapter_6__The_Heresy_of_Dominion.mp3",
+    "mp3_mb": 15.2,
+    "seconds_elapsed": 457.4,
+    "timestamp": "2026-11-03 12:14:01"
+  },
+  "Track_07": {
+    "title": "Chapter 7: The Severed Line",
+    "words": 2419,
+    "mp3_file": "Track_07_Chapter_7__The_Severed_Line.mp3",
+    "mp3_mb": 15.14,
+    "seconds_elapsed": 441.1,
+    "timestamp": "2026-11-03 12:21:24"
+  },
+  "Track_08": {
+    "title": "Chapter 8: The Mimic in the Dark",
+    "words": 1988,
+    "mp3_file": "Track_08_Chapter_8__The_Mimic_in_the_Dark.mp3",
+    "mp3_mb": 12.57,
+    "seconds_elapsed": 393.4,
+    "timestamp": "2026-11-03 12:27:59"
+  },
+  "Track_09": {
+    "title": "Chapter 9: The Keeper's Threshold & The Endless Cycle",
+    "words": 2268,
+    "mp3_file": "Track_09_Chapter_9__The_Keeper's_Threshold_&_The_Endless_Cycle.mp3",
+    "mp3_mb": 13.9,
+    "seconds_elapsed": 408.2,
+    "timestamp": "2026-11-03 12:34:49"
+  }
+}
