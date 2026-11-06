@@ -1,0 +1,74 @@
+{
+  "Track_01": {
+    "title": "Chapter 1: The Sacred Hearth",
+    "words": 9883,
+    "mp3_file": "Track_01_Chapter_1__The_Sacred_Hearth.mp3",
+    "mp3_mb": 61.48,
+    "seconds_elapsed": 1740.7,
+    "timestamp": "2026-11-03 02:15:50"
+  },
+  "Track_02": {
+    "title": "Chapter 2: The Incursion of Iron",
+    "words": 9820,
+    "mp3_file": "Track_02_Chapter_2__The_Incursion_of_Iron.mp3",
+    "mp3_mb": 62.77,
+    "seconds_elapsed": 1817.3,
+    "timestamp": "2026-11-03 02:46:16"
+  },
+  "Track_03": {
+    "title": "Chapter 3: The Broken Command",
+    "words": 9853,
+    "mp3_file": "Track_03_Chapter_3__The_Broken_Command.mp3",
+    "mp3_mb": 60.15,
+    "seconds_elapsed": 1752.6,
+    "timestamp": "2026-11-03 03:15:36"
+  },
+  "Track_04": {
+    "title": "Chapter 4: The Trial of the Shadow",
+    "words": 9807,
+    "mp3_file": "Track_04_Chapter_4__The_Trial_of_the_Shadow.mp3",
+    "mp3_mb": 57.8,
+    "seconds_elapsed": 1586.1,
+    "timestamp": "2026-11-03 03:42:10"
+  },
+  "Track_05": {
+    "title": "Chapter 5: The Unraveling of Iron",
+    "words": 9846,
+    "mp3_file": "Track_05_Chapter_5__The_Unraveling_of_Iron.mp3",
+    "mp3_mb": 59.09,
+    "seconds_elapsed": 1602.6,
+    "timestamp": "2026-11-03 04:09:00"
+  },
+  "Track_06": {
+    "title": "Chapter 6: The Butcher and the Sentinel",
+    "words": 7090,
+    "mp3_file": "Track_06_Chapter_6__The_Butcher_and_the_Sentinel.mp3",
+    "mp3_mb": 42.62,
+    "seconds_elapsed": 1171.1,
+    "timestamp": "2026-11-03 04:28:37"
+  },
+  "Track_07": {
+    "title": "Scene: The Trap of Not-Zoe",
+    "words": 2770,
+    "mp3_file": "Track_07_Scene__The_Trap_of_Not-Zoe.mp3",
+    "mp3_mb": 16.97,
+    "seconds_elapsed": 472.1,
+    "timestamp": "2026-11-03 04:36:31"
+  },
+  "Track_08": {
+    "title": "Chapter 7: The Cabin in the Basin",
+    "words": 9845,
+    "mp3_file": "Track_08_Chapter_7__The_Cabin_in_the_Basin.mp3",
+    "mp3_mb": 58.03,
+    "seconds_elapsed": 1597.8,
+    "timestamp": "2026-11-03 05:03:16"
+  },
+  "Track_09": {
+    "title": "Chapter 8: Operation Echo: The Forensic Crypt",
+    "words": 9822,
+    "mp3_file": "Track_09_Chapter_8__Operation_Echo__The_Forensic_Crypt.mp3",
+    "mp3_mb": 61.32,
+    "seconds_elapsed": 1691.1,
+    "timestamp": "2026-11-03 05:31:36"
+  }
+}
